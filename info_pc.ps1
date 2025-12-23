@@ -19,5 +19,3 @@ Write-Host "IP Address:            $IP"
 Write-Host "OS Installation Date:  $InstallDate"
 Write-Host "Fecha de consulta:     $Now"
 Write-Host "=========================================="
-
-Start-Sleep -Seconds 10
